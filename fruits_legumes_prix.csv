@@ -1,28 +1,28 @@
 Type,Prix (€),Bio,Pays,Source
-Pommes Golden,2.50 €,Non,,rungis.maison
-Citrons,4.00 €,Non,,rungis.maison
-Bananes ,3.00 €,Non,,rungis.maison
-Oranges ,4.00 €,Non,,rungis.maison
-Kiwi ,3.00 €,Non,,rungis.maison
-Oeufs,4.00 €,Oui,,rungis.maison
-Oignon ,3.00 €,Non,,rungis.maison
-Pommes de Terre Charlotte ,2.50 €,Non,,rungis.maison
-Huile d'olive ,6.90 €,Non,,rungis.maison
-Avocats ,3.50 €,Non,,rungis.maison
-Poires Conférence ,4.00 €,Non,,rungis.maison
-Clémentines ,4.50 €,Non,,rungis.maison
-Carottes ,2.00 €,Non,,rungis.maison
-Lait demi-écrémé ,1.70 €,Non,,rungis.maison
-Salade Batavia (unité),1.50 €,Non,,rungis.maison
-Farine ,2.00 €,Non,,rungis.maison
-aubergines,5.49 €,Oui,Espagne,Vépluche
-carottes,3.24 €,Oui,France,Vépluche
-courgettes,4.71 €,Oui,Italie,Vépluche
-pommes de terre Charlotte,2.74 €,Oui,France,Vépluche
-oignons rouges,3.24 €,Oui,France,Vépluche
-Chou fleur,2.35 €,Oui,France,Vépluche
-oranges ,2.55 €,Oui,Espagne,Vépluche
-pomme golden ,4.11 €,Oui,France,Vépluche
-citrons jaunes,3.92 €,Oui,Espagne,Vépluche
-bananes,2.55 €,Oui,République Dominicaine,Vépluche
-salade,0.98 €,Oui,France,Vépluche
+Pommes Golden,2.5,Non,,rungis.maison
+Citrons,4,Non,,rungis.maison
+Bananes ,3,Non,,rungis.maison
+Oranges ,4,Non,,rungis.maison
+Kiwi ,3,Non,,rungis.maison
+Oeufs,4,Oui,,rungis.maison
+Oignon ,3,Non,,rungis.maison
+Pommes de Terre Charlotte ,2.5,Non,,rungis.maison
+Huile d'olive ,6.9,Non,,rungis.maison
+Avocats ,3.5,Non,,rungis.maison
+Poires Conférence ,4,Non,,rungis.maison
+Clémentines ,4.5,Non,,rungis.maison
+Carottes ,2,Non,,rungis.maison
+Lait demi-écrémé ,1.7,Non,,rungis.maison
+Salade Batavia (unité),1.5,Non,,rungis.maison
+Farine ,2,Non,,rungis.maison
+aubergines,5.49,Oui,Espagne,Vépluche
+carottes,3.24,Oui,France,Vépluche
+courgettes,4.71,Oui,Italie,Vépluche
+pommes de terre Charlotte,2.74,Oui,France,Vépluche
+oignons rouges,3.24,Oui,France,Vépluche
+Chou fleur,2.35,Oui,France,Vépluche
+oranges ,2.55,Oui,Espagne,Vépluche
+pomme golden ,4.11,Oui,France,Vépluche
+citrons jaunes,3.92,Oui,Espagne,Vépluche
+bananes,2.55,Oui,République Dominicaine,Vépluche
+salade,0.98,Oui,France,Vépluche
