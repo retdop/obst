@@ -1,49 +1,49 @@
 Nom,Espèce,Type,Unité,Prix (€),Bio,Pays,Source
-Avocat ,,Fruit,t,2.22,f,Europe,Vépluche
-Ananas ,Sweet,Fruit,f,2.81,f,Monde,Vépluche
-Citron ,,Fruit,f,4.2,f,Europe,Vépluche
-Fraise ,Gariguette,Fruit,f,7.72,f,France,Vépluche
-Framboise ,,Fruit,f,35.6,f,Europe,Vépluche
-Kiwi ,,Fruit,t,0.42,f,France,Vépluche
-Melon ,Charentais,Fruit,t,4.68,f,Monde,Vépluche
+Avocat,,Fruit,t,2.22,f,Europe,Vépluche
+Ananas,Sweet,Fruit,f,2.81,f,Monde,Vépluche
+Citron,,Fruit,f,4.2,f,Europe,Vépluche
+Fraise,Gariguette,Fruit,f,7.72,f,France,Vépluche
+Framboise,,Fruit,f,35.6,f,Europe,Vépluche
+Kiwi,,Fruit,t,0.42,f,France,Vépluche
+Melon,Charentais,Fruit,t,4.68,f,Monde,Vépluche
 Orange,De Table,Fruit,f,3.52,f,Europe,Vépluche
 Poire,Conférence,Fruit,f,3.16,f,Europe,Vépluche
-Pomelos ,Rouge,Fruit,f,2.81,f,Europe,Vépluche
-Pomme ,Golden,Fruit,f,2.22,f,France,Vépluche
+Pomelos,Rouge,Fruit,f,2.81,f,Europe,Vépluche
+Pomme,Golden,Fruit,f,2.22,f,France,Vépluche
 Pomme,Royal Gala,Fruit,f,3.38,f,France,Vépluche
-Aubergine ,,Légume,f,3.97,f,Europe,Vépluche
+Aubergine,,Légume,f,3.97,f,Europe,Vépluche
 Betterave,Cuite Sous Vide,Légume,f,2.42,f,France,Vépluche
-Brocoli ,,Légume,f,8.42,f,Europe,Vépluche
-Carotte ,,Légume,f,0.98,f,France,Vépluche
+Brocoli,,Légume,f,8.42,f,Europe,Vépluche
+Carotte,,Légume,f,0.98,f,France,Vépluche
 Champignon,De Paris,Légume,f,4.2,f,Europe,Vépluche
 Chou,,Légume,t,5.86,f,France,Vépluche
-Concombre ,,Légume,t,1.41,f,Europe,Vépluche
-Courgette ,,Légume,f,4.68,f,Europe,Vépluche
-Échalote ,,Légume,f,1.46,f,France,Vépluche
-Fenouil ,,Légume,f,3.04,f,Italie,Vépluche
-Feuille De Chêne,Rouge,Légume,t,1.64,f,France,Vépluche
+Concombre,,Légume,t,1.41,f,Europe,Vépluche
+Courgette,,Légume,f,4.68,f,Europe,Vépluche
+Échalote,,Légume,f,1.46,f,France,Vépluche
+Fenouil,,Légume,f,3.04,f,Italie,Vépluche
+Feuille de chêne,Rouge,Légume,t,1.64,f,France,Vépluche
 Oignon,Jaune,Légume,f,0.93,f,France,Vépluche
 Oignon,Rouge,Légume,f,2.11,f,France,Vépluche
-Poireau ,,Légume,f,2.93,f,France,Vépluche
-Poivron Rouge ,Rouge,Légume,f,5.86,f,Europe,Vépluche
+Poireau,,Légume,f,2.93,f,France,Vépluche
+Poivron rouge,Rouge,Légume,f,5.86,f,Europe,Vépluche
 Radis,Rose,Légume,t,2.11,f,France,Vépluche
 Ail,,Légume,f,8.88,f,Europe,Vépluche
 Tomate,Cerise,Légume,f,8.44,f,Monde,Vépluche
 Tomate,Grappe,Légume,f,4.56,f,Europe,Vépluche
 Tomate,Ronde,Légume,f,3.27,f,Monde,Vépluche
-Patate Douce ,,Légume,f,3.04,f,Europe,Vépluche
-Pomme De Terre,Agria lavée,Légume,f,0.98,f,Europe,Vépluche
-Pomme De Terre ,Charlotte,Légume,f,2,f,France,Vépluche
-Banane ,,Fruit,f,3.04,t,Monde,Vépluche
-Citron ,,Fruit,f,5.31,t,Italie,Vépluche
-Orange ,,Fruit,f,3.14,t,Europe,Vépluche
-Poire ,,Fruit,f,6.05,t,Monde,Vépluche
+Patate douce,,Légume,f,3.04,f,Europe,Vépluche
+Pomme de terre,Agria lavée,Légume,f,0.98,f,Europe,Vépluche
+Pomme de terre,Charlotte,Légume,f,2,f,France,Vépluche
+Banane,,Fruit,f,3.04,t,Monde,Vépluche
+Citron,,Fruit,f,5.31,t,Italie,Vépluche
+Orange,,Fruit,f,3.14,t,Europe,Vépluche
+Poire,,Fruit,f,6.05,t,Monde,Vépluche
 Pomme,Golden,Fruit,f,5.31,t,France,Vépluche
-Aubergine ,,Légume,f,7.25,t,Europe,Vépluche
-Batavia ,,Légume,t,2.29,t,France,Vépluche
-Carotte ,,Légume,f,3.98,t,Italie,Vépluche
+Aubergine,,Légume,f,7.25,t,Europe,Vépluche
+Batavia,,Légume,t,2.29,t,France,Vépluche
+Carotte,,Légume,f,3.98,t,Italie,Vépluche
 Chou,,Légume,t,6.05,t,France,Vépluche
-Courgette ,,Légume,f,5.79,t,Italie,Vépluche
+Courgette,,Légume,f,5.79,t,Italie,Vépluche
 Oignon,Rouge,Légume,f,4.83,t,Europe,Vépluche
-Patate Douce ,,Légume,f,6.05,t,Europe,Vépluche
-Pomme De Terre,Charlotte,Légume,f,3.38,t,France,Vépluche
+Patate douce,,Légume,f,6.05,t,Europe,Vépluche
+Pomme de terre,Charlotte,Légume,f,3.38,t,France,Vépluche
