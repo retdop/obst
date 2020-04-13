@@ -1,108 +1,108 @@
 Nom,Espèce,Type,Unité,Prix (€),Bio,Pays,Source
-Tomate,Grappe,Légume,t,0.584,,,Monoprix
-Courgette,,Légume,t,0.725,,,Monoprix
+Tomate,Grappe,Légume,t,0.584,f,,Monoprix
+Courgette,,Légume,t,0.725,f,,Monoprix
 Tomate,Cerise Olivette,Légume,f,11.2,t,,Monoprix
 Courgette,,Légume,f,5.99,t,,Monoprix
-Champignon,De Paris,Légume,f,5.98,,,Monoprix
+Champignon,De Paris,Légume,f,5.98,f,,Monoprix
 Poivron,Mixte,Légume,f,11.98,t,,Monoprix
 Concombre,,Légume,t,2.35,t,,Monoprix
 Carotte,,Légume,f,2.99,t,,Monoprix
 Tomate,Grappe,Légume,f,5.98,t,,Monoprix
-Pomme de Terre,Charlotte,Légume,f,1.596,,,Monoprix
-Endive,,Légume,t,1.198,,,Monoprix
-Concombre,,Légume,t,1.49,,,Monoprix
-Ail,Violet,Légume,t,1.16333333333333,,,Monoprix
-Carotte,,Légume,f,2.3,,,Monoprix
-Avocat,Hass,Légume,t,1.745,,,Monoprix
+Pomme de Terre,Charlotte,Légume,f,1.596,f,,Monoprix
+Endive,,Légume,t,1.198,f,,Monoprix
+Concombre,,Légume,t,1.49,f,,Monoprix
+Ail,Violet,Légume,t,1.16333333333333,f,,Monoprix
+Carotte,,Légume,f,2.3,f,,Monoprix
+Avocat,Hass,Légume,t,1.745,f,,Monoprix
 Endive,,Légume,f,11.25,t,,Monoprix
-Tomate,Cerise Allongée Grappe,Légume,f,17.96,,,Monoprix
-Oignon,Rouge,Légume,f,7.11428571428572,,,Monoprix
-Aubergine,,Légume,t,0.965,,,Monoprix
-Endive,Jeune pousse,Légume,t,0.498333333333333,,,Monoprix
-Patate Douce,,Légume,f,4.8,,,Monoprix
-Fenouil,,Légume,t,1.21,,,Monoprix
-Tomate,,Légume,f,11.96,,,Monoprix
-Radis,Botte,Légume,t,1.59,,,Monoprix
-Chou-fleur,,Légume,t,4.99,,,Monoprix
-Tomate,Coeur de pigeon,Légume,f,11.96,,,Monoprix
-Artichaut,Blanc,Légume,t,1.99,,,Monoprix
-Haricot,Fin,Légume,f,9.96,,,Monoprix
+Tomate,Cerise Allongée Grappe,Légume,f,17.96,f,,Monoprix
+Oignon,Rouge,Légume,f,7.11428571428572,f,,Monoprix
+Aubergine,,Légume,t,0.965,f,,Monoprix
+Endive,Jeune pousse,Légume,t,0.498333333333333,f,,Monoprix
+Patate Douce,,Légume,f,4.8,f,,Monoprix
+Fenouil,,Légume,t,1.21,f,,Monoprix
+Tomate,,Légume,f,11.96,f,,Monoprix
+Radis,Botte,Légume,t,1.59,f,,Monoprix
+Chou-fleur,,Légume,t,4.99,f,,Monoprix
+Tomate,Coeur de pigeon,Légume,f,11.96,f,,Monoprix
+Artichaut,Blanc,Légume,t,1.99,f,,Monoprix
+Haricot,Fin,Légume,f,9.96,f,,Monoprix
 Aubergine,,Légume,f,9.2,t,,Monoprix
-Echalote,Longue,Légume,f,3.96,,,Monoprix
-Brocoli,,Légume,f,4.98,,,Monoprix
-Pomme de terre,Rouge,Légume,f,1.99333333333333,,,Monoprix
-Avocat,Hass,Légume,t,1.99,,,Monoprix
-Salade,Sucrine,Légume,t,0.496666666666667,,,Monoprix
-Poireau,,Légume,f,3.59,,,Monoprix
-Oignon,Jaune,Légume,f,3.78,,,Monoprix
-Salade,Batavia,Légume,t,0.99,,,Monoprix
-Betterave,,Légume,f,2.98,,,Monoprix
-Poireau,Blanc de,Légume,f,8.98,,,Monoprix
-Salade,Iceberg,Légume,t,0.99,,,Monoprix
-Mâche,,Légume,f,6.6,,,Monoprix
-Poivron rouge,Rouge,Légume,t,1.2,,,Monoprix
-Tomate,Ronde,Légume,t,0.885,,,Monoprix
-Choudou,,Légume,t,2.99,,,Monoprix
-Menthe,,Légume,f,150,,,Monoprix
-Pomme de Terre,Grenaille,Légume,f,3.98,,,Monoprix
-Laitue,,Légume,t,1.29,,,Monoprix
-Asperge,Blanche,Légume,f,12.99,,,Monoprix
-Tomate,Allongée,Légume,t,0.6075,,,Monoprix
-Persil,Frisé,Légume,f,15,,,Monoprix
-Poivron,Verte,Légume,t,0.965,,,Monoprix
-Pomme de Terre,Princesse Amandine,Légume,f,1.796,,,Monoprix
-Épinard,Jeune pousse,Légume,f,7.92,,,Monoprix
-Coriandre,,Légume,f,150,,,Monoprix
-Ciboulette,,Légume,f,150,,,Monoprix
-Basilic,Pot,Légume,t,1.99,,,Monoprix
-Roquette,Jeune pousse,Légume,f,7.92,,,Monoprix
-Pomme de Terre,Au four,Légume,f,1.316,,,Monoprix
-Persil,Plat,Légume,f,1500,,,Monoprix
+Echalote,Longue,Légume,f,3.96,f,,Monoprix
+Brocoli,,Légume,f,4.98,f,,Monoprix
+Pomme de terre,Rouge,Légume,f,1.99333333333333,f,,Monoprix
+Avocat,Hass,Légume,t,1.99,f,,Monoprix
+Salade,Sucrine,Légume,t,0.496666666666667,f,,Monoprix
+Poireau,,Légume,f,3.59,f,,Monoprix
+Oignon,Jaune,Légume,f,3.78,f,,Monoprix
+Salade,Batavia,Légume,t,0.99,f,,Monoprix
+Betterave,,Légume,f,2.98,f,,Monoprix
+Poireau,Blanc de,Légume,f,8.98,f,,Monoprix
+Salade,Iceberg,Légume,t,0.99,f,,Monoprix
+Mâche,,Légume,f,6.6,f,,Monoprix
+Poivron rouge,Rouge,Légume,t,1.2,f,,Monoprix
+Tomate,Ronde,Légume,t,0.885,f,,Monoprix
+Choudou,,Légume,t,2.99,f,,Monoprix
+Menthe,,Légume,f,150,f,,Monoprix
+Pomme de Terre,Grenaille,Légume,f,3.98,f,,Monoprix
+Laitue,,Légume,t,1.29,f,,Monoprix
+Asperge,Blanche,Légume,f,12.99,f,,Monoprix
+Tomate,Allongée,Légume,t,0.6075,f,,Monoprix
+Persil,Frisé,Légume,f,15,f,,Monoprix
+Poivron,Verte,Légume,t,0.965,f,,Monoprix
+Pomme de Terre,Princesse Amandine,Légume,f,1.796,f,,Monoprix
+Épinard,Jeune pousse,Légume,f,7.92,f,,Monoprix
+Coriandre,,Légume,f,150,f,,Monoprix
+Ciboulette,,Légume,f,150,f,,Monoprix
+Basilic,Pot,Légume,t,1.99,f,,Monoprix
+Roquette,Jeune pousse,Légume,f,7.92,f,,Monoprix
+Pomme de Terre,Au four,Légume,f,1.316,f,,Monoprix
+Persil,Plat,Légume,f,1500,f,,Monoprix
 Menthe,Pot,Légume,t,1.99,t,,Monoprix
-Oignon,Botte,Légume,t,1.9,,,Monoprix
+Oignon,Botte,Légume,t,1.9,f,,Monoprix
 Avocat,Hass,Légume,t,1.86666666666667,t,,Monoprix
-Fenouil,,Légume,t,0.695,,,Monoprix
-Tomate,Grappe,Légume,t,0.998,,,Monoprix
-Myrtille,,Fruit,f,19.92,,,Monoprix
-Banane,Max Havelaar,Fruit,t,0.398,,,Monoprix
-Tomate,Grappe,Fruit,t,0.584,,,Monoprix
+Fenouil,,Légume,t,0.695,f,,Monoprix
+Tomate,Grappe,Légume,t,0.998,f,,Monoprix
+Myrtille,,Fruit,f,19.92,f,,Monoprix
+Banane,Max Havelaar,Fruit,t,0.398,f,,Monoprix
+Tomate,Grappe,Fruit,t,0.584,f,,Monoprix
 Tomate,Cerise Olivette,Fruit,f,11.2,t,,Monoprix
 Citron,Jaune,Fruit,t,0.7,t,,Monoprix
 Orange,À jus,Fruit,f,3.13333333333333,t,,Monoprix
 Tomate,Grappe,Fruit,f,5.98,t,,Monoprix
 Kiwi,,Fruit,t,0.75,t,,Monoprix
-Citron,Jaune non traité,Fruit,t,0.5725,,,Monoprix
-Mangue,Kent,Fruit,t,1.99,,,Monoprix
-Avocat,Hass,Fruit,t,1.745,,,Monoprix
-Tomate,Cerise Allongée Grappe,Fruit,f,17.96,,,Monoprix
-Fraise,Gariguette,Fruit,f,9.96,,,Monoprix
-Citron,Vert,Fruit,f,5,,,Monoprix
-Orange,À jus,Fruit,f,2.245,,,Monoprix
-Mandarine,,Fruit,f,4.49,,,Monoprix
+Citron,Jaune non traité,Fruit,t,0.5725,f,,Monoprix
+Mangue,Kent,Fruit,t,1.99,f,,Monoprix
+Avocat,Hass,Fruit,t,1.745,f,,Monoprix
+Tomate,Cerise Allongée Grappe,Fruit,f,17.96,f,,Monoprix
+Fraise,Gariguette,Fruit,f,9.96,f,,Monoprix
+Citron,Vert,Fruit,f,5,f,,Monoprix
+Orange,À jus,Fruit,f,2.245,f,,Monoprix
+Mandarine,,Fruit,f,4.49,f,,Monoprix
 Orange,De Table,Fruit,f,3.4,t,,Monoprix
-Pomelo,Rose,Fruit,t,1.49,,,Monoprix
-Tomate,Cerise,Fruit,f,11.96,,,Monoprix
-Orange,De Table Naveline,Fruit,f,2.245,,,Monoprix
-Ananas,Extra Sweet,Fruit,t,1.79,,,Monoprix
-Tomate,Coeur de pigeon,Fruit,f,11.96,,,Monoprix
-Avocat,Hass,Fruit,t,1.99,,,Monoprix
-Myrtille,,Fruit,f,19.98,,,Monoprix
-Fruit de la passion,,Fruit,t,0.643333333333333,,,Monoprix
-Kiwi,Hayward,Fruit,t,0.65,,,Monoprix
-Fraise,,Fruit,f,7.98,,,Monoprix
-Tomate,,Fruit,t,0.885,,,Monoprix
-Pomme,Pink Lady,Fruit,t,0.815,,,Monoprix
-Mûre,,Fruit,f,31.92,,,Monoprix
-Tomate,Allongée,Fruit,t,0.6075,,,Monoprix
-Pomme,Golden Jaune,Fruit,t,0.6575,,,Monoprix
-Ananas,Victoria,Fruit,t,4.49,,,Monoprix
-Pomme,Gala Rouge,Fruit,t,0.655,,,Monoprix
-Pitaya,Rouge,Fruit,t,5.99,,,Monoprix
+Pomelo,Rose,Fruit,t,1.49,f,,Monoprix
+Tomate,Cerise,Fruit,f,11.96,f,,Monoprix
+Orange,De Table Naveline,Fruit,f,2.245,f,,Monoprix
+Ananas,Extra Sweet,Fruit,t,1.79,f,,Monoprix
+Tomate,Coeur de pigeon,Fruit,f,11.96,f,,Monoprix
+Avocat,Hass,Fruit,t,1.99,f,,Monoprix
+Myrtille,,Fruit,f,19.98,f,,Monoprix
+Fruit de la passion,,Fruit,t,0.643333333333333,f,,Monoprix
+Kiwi,Hayward,Fruit,t,0.65,f,,Monoprix
+Fraise,,Fruit,f,7.98,f,,Monoprix
+Tomate,,Fruit,t,0.885,f,,Monoprix
+Pomme,Pink Lady,Fruit,t,0.815,f,,Monoprix
+Mûre,,Fruit,f,31.92,f,,Monoprix
+Tomate,Allongée,Fruit,t,0.6075,f,,Monoprix
+Pomme,Golden Jaune,Fruit,t,0.6575,f,,Monoprix
+Ananas,Victoria,Fruit,t,4.49,f,,Monoprix
+Pomme,Gala Rouge,Fruit,t,0.655,f,,Monoprix
+Pitaya,Rouge,Fruit,t,5.99,f,,Monoprix
 Pomme,Golden Jaune,Fruit,t,0.9,t,,Monoprix
 Pomme,Juliette Bicolore,Fruit,t,0.9975,t,,Monoprix
 Noix de coco,,Fruit,t,1.5,t,,Monoprix
 Pomelo,Rouge,Fruit,t,1.15,t,,Monoprix
-Fruit de la passion,,Fruit,t,1.07333333333333,,,Monoprix
+Fruit de la passion,,Fruit,t,1.07333333333333,f,,Monoprix
 Banane,Max Havelaar,Fruit,t,0.398,t,,Monoprix
-Tomate,Grappe,Fruit,t,0.998,,,Monoprix
+Tomate,Grappe,Fruit,t,0.998,f,,Monoprix
 Avocat,Hass,Fruit,t,1.86666666666667,t,,Monoprix
