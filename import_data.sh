@@ -5,9 +5,18 @@
 
 . ./config.sh
 
-pgloader --field item,price_eur,bio,country,source \
---with "skip header = 1" \
---with "fields terminated by ','" \
-fruits_legumes_prix.csv \
-postgres://$pg_username:$pg_password@$pg_host:$pg_port/${pg_dbname}\?tablename=prices
+
+for f in ./import/*.csv; do
+    echo $f
+    if [[ -f "$f" && -s "$f" ]]; then
+
+	pgloader --field name,kind,type,unit,price_eur,bio,country,source \
+	--with "skip header = 1" \
+	--with "fields terminated by ','" \
+	${f} \
+	postgres://$pg_username:$pg_password@$pg_host:$pg_port/${pg_dbname}\?tablename=prices
+    else
+        echo "file $f is empty"
+    fi
+done;
 
