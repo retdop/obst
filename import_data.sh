@@ -10,7 +10,7 @@ for f in ./import/*.csv; do
     echo $f
     if [[ -f "$f" && -s "$f" ]]; then
 
-	pgloader --field name,kind,type,unit,price_eur,bio,country,source \
+	pgloader --field name,kind,type,unit,price_eur,bio,country,source,scraped_date \
 	--with "skip header = 1" \
 	--with "fields terminated by ','" \
 	${f} \
